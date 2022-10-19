@@ -1,0 +1,15 @@
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/bin/Debug/net6.0/AcostaMRestaurantPicker
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/bin/Debug/net6.0/AcostaMRestaurantPicker.deps.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/bin/Debug/net6.0/AcostaMRestaurantPicker.runtimeconfig.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/bin/Debug/net6.0/AcostaMRestaurantPicker.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/bin/Debug/net6.0/AcostaMRestaurantPicker.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/obj/Debug/net6.0/AcostaMRestaurantPicker.csproj.AssemblyReference.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/obj/Debug/net6.0/AcostaMRestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/obj/Debug/net6.0/AcostaMRestaurantPicker.AssemblyInfoInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/obj/Debug/net6.0/AcostaMRestaurantPicker.AssemblyInfo.cs
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/obj/Debug/net6.0/AcostaMRestaurantPicker.csproj.CoreCompileInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/obj/Debug/net6.0/AcostaMRestaurantPicker.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/obj/Debug/net6.0/refint/AcostaMRestaurantPicker.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/obj/Debug/net6.0/AcostaMRestaurantPicker.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/obj/Debug/net6.0/AcostaMRestaurantPicker.genruntimeconfig.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMRestaurantPicker/obj/Debug/net6.0/ref/AcostaMRestaurantPicker.dll
