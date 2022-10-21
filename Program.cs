@@ -10,10 +10,19 @@ while (playAgain == "yes")
 
 string usersAnswer = "";
 
-Console.WriteLine("today you want to go somewhere to eat but dont know where to go well im here to help!");
-
-Console.WriteLine("what would you like to eat today, type sf for street food, ff for Fast food or df for Dine in Food? ");
+Console.WriteLine("Today you want to go somewhere to eat but dont know where to go well im here to help!");
+while(usersAnswer != "df" && usersAnswer != "sf" && usersAnswer != "ff") 
+{
+    Console.WriteLine("what would you like to eat today, type sf for street food, ff for Fast food or df   for Dine in Food? ");
 usersAnswer = Console.ReadLine();
+if (usersAnswer != "df" && usersAnswer != "sf" && usersAnswer != "ff")
+{    
+    Console.WriteLine("Invalid Answer");
+}
+
+
+}
+
 if(usersAnswer == "df")
 {
 
